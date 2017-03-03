@@ -1,0 +1,15 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2016-03-31 00:19:29 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/wipekpl/domains/wipek.pl/public_html/cms/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-03-31 02:13:03 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/wipekpl/domains/wipek.pl/public_html/cms/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-03-31 02:43:48 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/wipekpl/domains/wipek.pl/public_html/cms/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-03-31 03:51:42 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/wipekpl/domains/wipek.pl/public_html/cms/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-03-31 07:26:50 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/wipekpl/domains/wipek.pl/public_html/cms/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-03-31 09:11:24 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/wipekpl/domains/wipek.pl/public_html/cms/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-03-31 09:11:24 --> 404 Page Not Found --> http://www.cms.wipek.pl/robots.txt
+ERROR - 2016-03-31 11:37:29 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/wipekpl/domains/wipek.pl/public_html/cms/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-03-31 15:03:34 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/wipekpl/domains/wipek.pl/public_html/cms/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-03-31 17:32:24 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/wipekpl/domains/wipek.pl/public_html/cms/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-03-31 22:52:58 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/wipekpl/domains/wipek.pl/public_html/cms/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-03-31 22:52:58 --> 404 Page Not Found --> http://www.cms.wipek.pl/robots.txt
+ERROR - 2016-03-31 22:53:11 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/wipekpl/domains/wipek.pl/public_html/cms/system/database/drivers/mysql/mysql_driver.php 91

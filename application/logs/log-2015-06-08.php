@@ -1,0 +1,19 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2015-06-08 18:10:51 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\xampp\htdocs\cms\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-06-08 18:18:33 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\xampp\htdocs\cms\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-06-08 18:18:44 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\xampp\htdocs\cms\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-06-08 18:18:46 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\xampp\htdocs\cms\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-06-08 18:18:48 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\xampp\htdocs\cms\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-06-08 18:18:50 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\xampp\htdocs\cms\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-06-08 18:18:51 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\xampp\htdocs\cms\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-06-08 18:18:51 --> 404 Page Not Found --> http://localhost/cms/public_html/fonts/fontawesome-webfont.woff
+ERROR - 2015-06-08 18:18:51 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\xampp\htdocs\cms\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-06-08 18:18:52 --> 404 Page Not Found --> http://localhost/cms/public_html/fonts/fontawesome-webfont.ttf
+ERROR - 2015-06-08 18:18:57 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\xampp\htdocs\cms\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-06-08 18:33:24 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\xampp\htdocs\cms\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-06-08 18:33:27 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\xampp\htdocs\cms\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-06-08 18:33:28 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\xampp\htdocs\cms\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-06-08 19:41:20 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\xampp\htdocs\cms\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-06-08 19:41:51 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\xampp\htdocs\cms\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-06-08 21:08:27 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\xampp\htdocs\cms\system\database\drivers\mysql\mysql_driver.php 73
